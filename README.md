@@ -8,11 +8,11 @@ numbered ID to each country with its name.
 ## Graphs
 ### Price-weighted graph
 (The price is not accurate, I invented the prices to run the simulation)
-![alt tag](https://raw.githubusercontent.com/rodrigomugue/FlightSearcher/main/graph.png)
+![alt tag](https://raw.githubusercontent.com/rodrigomugue/FlightsSearcher/main/graph.png)
 ### Duration-weighted graph
 (The hour durations are not accurate, I estimated them to run the simulation)
-![alt tag](https://raw.githubusercontent.com/rodrigomugue/FlightSearcher/main/graph2.png)
+![alt tag](https://raw.githubusercontent.com/rodrigomugue/FlightsSearcher/main/graph2.png)
 
 ## Hash
 (The IDs were not given in that order for an specific reason, I randomly selected them)
-![alt tag](https://raw.githubusercontent.com/rodrigomugue/FlightSearcher/main/hash.png)
+![alt tag](https://raw.githubusercontent.com/rodrigomugue/FlightsSearcher/main/hash.png)
