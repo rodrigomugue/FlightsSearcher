@@ -14,5 +14,5 @@ numbered ID to each country with its name.
 ![alt tag](https://raw.githubusercontent.com/rodrigomugue/FlightsSearcher/main/graph2.png)
 
 ## Hash
-(The IDs were not given in that order for an specific reason, I randomly selected them)
+(The IDs were not given in that order for an specific reason, I randomly selected them)\
 ![alt tag](https://raw.githubusercontent.com/rodrigomugue/FlightsSearcher/main/Hash.png)
