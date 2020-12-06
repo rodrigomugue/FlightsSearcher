@@ -7,7 +7,7 @@ numbered ID to each country with its name.
 
 ## Graphs
 ### Price-weighted graph
-(The price is not accurate, I invented the prices to run the simulation)
+(The price is not accurate, I invented the them to run the simulation)
 ![alt tag](https://raw.githubusercontent.com/rodrigomugue/FlightsSearcher/main/graph.png)
 ### Duration-weighted graph
 (The hour durations are not accurate, I estimated them to run the simulation)
